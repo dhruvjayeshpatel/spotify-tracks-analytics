@@ -94,6 +94,11 @@ spotify-tracks-analytics/
 - Handling real-world data issues (CSV parsing with embedded delimiters, de-duplication, star-schema modeling).
 - Serving a data lake with Synapse Serverless and connecting it to Power BI.
 
+- 👤 Author
+
+Dhruv Patel — Data Engineer
+[🔗 LinkedIn](https://www.linkedin.com/in/dhruvjayeshbhaipatel)
+
 
 ---
 
